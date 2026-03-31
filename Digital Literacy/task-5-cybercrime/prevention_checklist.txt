@@ -1,0 +1,17 @@
+Stay Safe Online: Checklist for College Students in India
+This checklist is designed for students to protect their digital identities, financial assets, and personal privacy against evolving cyber threats in 2026.
+🔐 UPI & Financial Safety
+[ ] Never Enter PIN to Receive Money: Remember, you only enter your UPI PIN (MPIN) to send money. If someone asks for a PIN to "receive a cashback" or "receive payment," it is a scam.
+[ ] Reject Unsolicited "Collect Requests": Do not approve UPI collect requests (e.g., "Pay ₹5000 to XYZ") sent via WhatsApp or SMS, even if the sender claims to be from a known entity. Only initiate payments through official apps.
+[ ] Verify Beneficiary Before Sending Money: Always double-check the recipient's name displayed on your UPI app screen (BHIM, PhonePe, Paytm, GPay) before entering your PIN, not just the phone number.
+📱 General Online Safety
+[ ] Use Strong & Unique Passwords: Use a password manager to generate unique, 12+ character passwords for every account. Never reuse your banking password for social media.
+[ ] Enable Two-Factor Authentication (2FA/MFA): Turn on 2FA on all financial apps, social media, and email accounts. Prefer Authenticator Apps over SMS OTP for higher security.
+[ ] Avoid Public Wi-Fi for Transactions: Never use open or public Wi-Fi (in cafes, libraries, or airports) to access net banking or UPI apps. Use your mobile data or a trusted VPN.
+[ ] Beware of "Free" Offers & Suspicious Links: Do not click on shortened URLs (bit.ly, tinyurl) promising free scholarships, gifts, or jobs. These are likely phishing links designed to steal credentials.
+[ ] Keep Devices & Apps Updated: Set your smartphone and laptop to auto-update. Security patches fix vulnerabilities that hackers use to gain access to your personal files and pictures.
+🚨 What to do if you are a victim
+If you fall victim to cyber fraud, do not panic. Time is critical.
+Helpline: Call 1930 immediately to report financial fraud and block transactions.
+Report Online: File a complaint at cybercrime.gov.in.
+Keep UPI PINs, 12-digit UTR numbers, and screenshots of fraudulent conversations as evidence.
